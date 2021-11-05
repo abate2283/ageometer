@@ -1,7 +1,7 @@
 {
   "name": "posts",
   "version": "1.0.0",
-  "description": "",
+  "description": "about",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
