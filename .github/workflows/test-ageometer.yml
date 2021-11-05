@@ -1,5 +1,5 @@
 
-  name: test
+  name: test-ageometer
   on:
     pull_requests
 
@@ -8,5 +8,5 @@
       runs-on:  ubuntu-latest
       steps:
         - uses: actions/checkout@v2
-        - runs: cd auth && npm install && npm run test:ci
+        - runs: cd ageometer && npm install && npm run test:ci
         
