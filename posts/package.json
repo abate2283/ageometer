@@ -8,7 +8,7 @@
     "test-post:ci": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alfred A Bate",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0",
